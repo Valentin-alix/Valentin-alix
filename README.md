@@ -1,8 +1,6 @@
-   
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-
+<div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/51865424-10f2-4859-8055-b62b1c0d8d36" width="300">
-
+</div>
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
