@@ -1,14 +1,7 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-<p align="center">
-  Hi, I'm Valentin Alix, Web & Software Developer from Bretagne
-  <br>
-  <br>
-  👨‍🎓 I will soon finish my last year at school to obtain the RNCP title EISI (Expert en informatique et système d'information)
-  <br>
-  💻 I love writing code, automating tasks, problem solving and learning anything about them 😉
-  <br>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/51865424-10f2-4859-8055-b62b1c0d8d36" width="300">
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
