@@ -50,6 +50,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Valentin-alix&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentin-alix&layout=compact&theme=tokyonight" alt="langs" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Valentin-alix&amp;theme=default&amp;hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
