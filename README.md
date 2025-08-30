@@ -1,5 +1,3 @@
-# 👋 Hey, I'm Valentin Alix
-
 💻 **Full Stack Web Developer**
 
 ---
