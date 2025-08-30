@@ -61,4 +61,9 @@
 
 ---
 
-⭐ Feel free to check out my projects and contribute!
+⭐ Feel free to check out my projects !
+- https://github.com/Valentin-alix/Bot-Dofus-Mitm
+- https://github.com/Valentin-alix/AnkamaLauncherEmulator
+- https://github.com/Valentin-alix/YoloFront
+- https://github.com/Valentin-alix/YoloAPI
+- https://github.com/Valentin-alix/AutoFM
