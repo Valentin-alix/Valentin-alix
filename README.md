@@ -8,11 +8,10 @@
 - 💼 Full stack web developer
 - 🔥 Strong expertise in **Python** (FastAPI, Django, Flask) and **JavaScript / TypeScript** (Angular, Vue.js)
 - 🕹️ Passionate about **reverse engineering** and building **game bots**
-- 🎯 Curious, pragmatic, focused on performance and architecture
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Main Tech Stack
 
 ### Backend
 
