@@ -1,13 +1,12 @@
-💻 **Full Stack Web Developer**
+💻 **Python Backend Developer**
 
 ---
 
 ## 🚀 About Me
 
 - 🎂 24 years old
-- 💼 Full stack web developer
 - 🔥 Strong expertise in **Python** (FastAPI, Django, Flask) and **JavaScript / TypeScript** (Angular, Vue.js)
-- 🕹️ Passionate about **reverse engineering** and building **game bots**
+- 🕹️ Also Passionate about **reverse engineering** and building **game bots**
 
 ---
 
