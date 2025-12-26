@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🎂 24 years old
+- 🎂 25 years old
 - 🔥 Strong expertise in **Python** (FastAPI, Django, Flask) and **JavaScript / TypeScript** (Angular, Vue.js)
 - 🕹️ Also Passionate about **reverse engineering** and building **game bots**
 
@@ -15,7 +15,7 @@
 ### Backend
 
 - Python: FastAPI, Django, Flask
-- Databases: PostgreSQL, MySQL, SQLite
+- Databases: PostgreSQL
 - ORM: SQLAlchemy, Django ORM
 
 ### Frontend
@@ -23,21 +23,11 @@
 - Angular
 - Vue.js
 - TypeScript / JavaScript
-- HTML / CSS / SASS
 
 ### CI/CD
 
 - Docker
 - Gitlab-ci
-- Jenkins
-
-### Others
-
-- Linux
-- Git
-- Packet analysis & traffic interception
-- Automation & game botting
-- Reverse engineering techniques
 
 ---
 
