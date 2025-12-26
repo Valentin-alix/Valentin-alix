@@ -34,10 +34,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![Stars](https://github-readme-stats.vercel.app/api?username=Valentin-alix&custom_title=Stars&hide=issues,prs,contribs,followers)
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Valentin-alix&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentin-alix&layout=compact&theme=tokyonight" alt="langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Valentin-alix&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
