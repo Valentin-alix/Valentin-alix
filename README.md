@@ -45,8 +45,7 @@ Emulator for Ankama Launcher. Reverse engineered the protocol to simulate client
 ### YoloFront
 Frontend web application built with PyQT for internal tools and dashboards.
 
-➡️ [GitHub Repo]
-(https://github.com/Valentin-alix/YoloFront)
+➡️ [GitHub Repo](https://github.com/Valentin-alix/YoloFront)
 
 ### YoloAPI
 Backend REST API built with Python (FastAPI), connected to PostgreSQL and integrated with YoloFront.
