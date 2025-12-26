@@ -31,25 +31,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## Public projects
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Valentin-alix/Bot-Dofus-MITM?style=flat)
+### Bot Dofus Mitm
+[![Stars](https://img.shields.io/github/stars/Valentin-alix/Bot-Dofus-Mitm?style=flat&logo=github)](https://github.com/Valentin-alix/Bot-Dofus-Mitm)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Valentin-alix&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+➡️ https://github.com/Valentin-alix/Bot-Dofus-Mitm
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valentin-alix&show_icons=true&theme=tokyonight"/>
-</p>
+### Ankama Launcher Emulator
+
+➡️ https://github.com/Valentin-alix/AnkamaLauncherEmulator
+
+### YoloFront
+
+➡️ https://github.com/Valentin-alix/YoloFront
+
+### YoloAPI
+
+➡️ https://github.com/Valentin-alix/YoloAPI
 
 ---
 
 ## 🤝 Contact
 
 - 📫 [Linkedin](https://www.linkedin.com/in/valentin-alix35/)
-
----
-- https://github.com/Valentin-alix/Bot-Dofus-Mitm
-- https://github.com/Valentin-alix/AnkamaLauncherEmulator
-- https://github.com/Valentin-alix/YoloFront
-- https://github.com/Valentin-alix/YoloAPI
-- https://github.com/Valentin-alix/AutoFM
