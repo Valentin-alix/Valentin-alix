@@ -33,19 +33,24 @@ Building scalable web applications with Python & JavaScript/TypeScript, with add
 
 ### Bot Dofus Mitm
 [![Stars](https://img.shields.io/github/stars/Valentin-alix/Bot-Dofus-Mitm?style=flat&logo=github)](https://github.com/Valentin-alix/Bot-Dofus-Mitm)  
-Automated bot for Dofus using MITM approach. Built backend services in Python and handled network protocol analysis.  
+Automated bot for Dofus using MITM approach. Built backend services in Python and handled network protocol analysis.
+
 ➡️ [GitHub Repo](https://github.com/Valentin-alix/Bot-Dofus-Mitm)
 
 ### Ankama Launcher Emulator
-Emulator for Ankama Launcher. Reverse engineered the protocol to simulate client-server communication.  
+Emulator for Ankama Launcher. Reverse engineered the protocol to simulate client-server communication.
+
 ➡️ [GitHub Repo](https://github.com/Valentin-alix/AnkamaLauncherEmulator)
 
 ### YoloFront
-Frontend web application built with PyQT for internal tools and dashboards. 
-➡️ [GitHub Repo](https://github.com/Valentin-alix/YoloFront)
+Frontend web application built with PyQT for internal tools and dashboards.
+
+➡️ [GitHub Repo]
+(https://github.com/Valentin-alix/YoloFront)
 
 ### YoloAPI
-Backend REST API built with Python (FastAPI), connected to PostgreSQL and integrated with YoloFront.  
+Backend REST API built with Python (FastAPI), connected to PostgreSQL and integrated with YoloFront.
+
 ➡️ [GitHub Repo](https://github.com/Valentin-alix/YoloAPI)
 
 ---
