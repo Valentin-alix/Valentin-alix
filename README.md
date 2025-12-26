@@ -33,6 +33,10 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Valentin-alix/Bot Dofus MITM?style=flat)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Valentin-alix&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Valentin-alix&show_icons=true&theme=tokyonight"/>
 </p>
