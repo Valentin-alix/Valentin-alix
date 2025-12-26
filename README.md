@@ -1,4 +1,4 @@
-💻 **Python Backend Developer**
+💻 **Fullstack Web Developer **
 
 ---
 
