@@ -43,7 +43,7 @@ Emulator for Ankama Launcher. Reverse engineered the protocol to simulate client
 ➡️ [GitHub Repo](https://github.com/Valentin-alix/AnkamaLauncherEmulator)
 
 ### YoloFront
-Frontend web application built with PyQT for internal tools and dashboards.
+Frontend web application built with PyQT to automate action in dofus game based on image analysis & input simulation.
 
 ➡️ [GitHub Repo](https://github.com/Valentin-alix/YoloFront)
 
