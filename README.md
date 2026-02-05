@@ -1,18 +1,10 @@
-# 💻 Fullstack Web Developer
+# Fullstack Web Developer
 
 Building scalable web applications with Python & JavaScript/TypeScript, with additional expertise in reverse engineering and automation tools.
 
 ---
 
-## 🏷️ About Me
-
-- 25 years old  
-- Strong expertise in **Python** (FastAPI, Django, Flask) and **JavaScript / TypeScript** (Angular, Vue.js)  
-- Passionate about **reverse engineering** and building **automation tools / game bots**  
-
----
-
-## 🛠️ Main Tech Stack
+## Main Tech Stack
 
 ### Backend
 - **Python**: FastAPI, Django, Flask  
@@ -38,6 +30,7 @@ Automated bot for Dofus using MITM approach. Built backend services in Python an
 ➡️ [GitHub Repo](https://github.com/Valentin-alix/Bot-Dofus-Mitm)
 
 ### Ankama Launcher Emulator
+[![Stars](https://img.shields.io/github/stars/Valentin-alix/AnkamaLauncherEmulator?style=flat&logo=github)](https://github.com/Valentin-alix/AnkamaLauncherEmulator)  
 Emulator for Ankama Launcher. Reverse engineered the protocol to simulate client-server communication.
 
 ➡️ [GitHub Repo](https://github.com/Valentin-alix/AnkamaLauncherEmulator)
