@@ -35,16 +35,6 @@ Emulator for Ankama Launcher. Reverse engineered the protocol to simulate client
 
 ➡️ [GitHub Repo](https://github.com/Valentin-alix/AnkamaLauncherEmulator)
 
-### YoloFront
-Frontend web application built with PyQT to automate action in dofus game based on image analysis & input simulation.
-
-➡️ [GitHub Repo](https://github.com/Valentin-alix/YoloFront)
-
-### YoloAPI
-Backend REST API built with Python (FastAPI), connected to PostgreSQL and integrated with YoloFront.
-
-➡️ [GitHub Repo](https://github.com/Valentin-alix/YoloAPI)
-
 ---
 
 ## 🤝 Contact
