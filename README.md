@@ -1,6 +1,6 @@
 # Fullstack Web Developer
 
-Building scalable web applications with Python & JavaScript/TypeScript, with additional expertise in reverse engineering and automation tools.
+Blablabla...
 
 ---
 
