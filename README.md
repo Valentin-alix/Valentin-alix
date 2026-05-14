@@ -1,6 +1,6 @@
 # Fullstack Web Developer
 
-Blablabla...
+Blablabla
 
 ---
 
