@@ -19,17 +19,13 @@
 
 ## Public Projects
 
-### Bot Dofus Mitm
+### [Bot Dofus Mitm](https://github.com/Valentin-alix/Bot-Dofus-Mitm) (2023)
 [![Stars](https://img.shields.io/github/stars/Valentin-alix/Bot-Dofus-Mitm?style=flat&logo=github)](https://github.com/Valentin-alix/Bot-Dofus-Mitm)  
 Automated bot for Dofus using MITM approach. Built backend services in Python and handled network protocol analysis.
 
-➡️ [GitHub Repo](https://github.com/Valentin-alix/Bot-Dofus-Mitm)
-
-### Ankama Launcher Emulator
+### [Ankama Launcher Emulator](https://github.com/Valentin-alix/AnkamaLauncherEmulator) (2025)
 [![Stars](https://img.shields.io/github/stars/Valentin-alix/AnkamaLauncherEmulator?style=flat&logo=github)](https://github.com/Valentin-alix/AnkamaLauncherEmulator)  
 Emulator for Ankama Launcher. Reverse engineered the protocol to simulate client-server communication.
-
-➡️ [GitHub Repo](https://github.com/Valentin-alix/AnkamaLauncherEmulator)
 
 ---
 
