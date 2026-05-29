@@ -1,8 +1,4 @@
-# Fullstack Web Developer
-
-Oui
-
----
+# Fullstack Python Developer
 
 ## Main Tech Stack
 
