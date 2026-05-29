@@ -17,7 +17,7 @@
 
 ---
 
-## 📂 Public Projects
+## Public Projects
 
 ### Bot Dofus Mitm
 [![Stars](https://img.shields.io/github/stars/Valentin-alix/Bot-Dofus-Mitm?style=flat&logo=github)](https://github.com/Valentin-alix/Bot-Dofus-Mitm)  
@@ -33,6 +33,6 @@ Emulator for Ankama Launcher. Reverse engineered the protocol to simulate client
 
 ---
 
-## 🤝 Contact
+## Contact
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/valentin-alix35/)
