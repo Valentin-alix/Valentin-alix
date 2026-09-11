@@ -19,7 +19,7 @@
 
 ## Public Projects
 
-### [Dofus Automation Mitm](https://github.com/Valentin-alix/Bot-Dofus-Mitm) (2023)
+### [Voldebot](https://github.com/Valentin-alix/Bot-Dofus-Mitm) (2023)
 [![Stars](https://img.shields.io/github/stars/Valentin-alix/Bot-Dofus-Mitm?style=flat&logo=github)](https://github.com/Valentin-alix/Bot-Dofus-Mitm)  
 Automated character for Dofus using MITM approach. Built backend services in Python and handled network protocol analysis.
 
