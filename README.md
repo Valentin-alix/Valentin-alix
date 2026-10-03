@@ -20,7 +20,7 @@
 ## Public Projects
 
 ### [BillBot](https://github.com/Valentin-alix/ThisIsBillBot) (2025-2026)
-Complete bot Dofus Unity using socket and mitm approach.
+Complete Dofus Unity (Dofus 3) Bot using socket and mitm approach.
 
 ### [AutoMarket](https://github.com/Valentin-alix/AutoMarket) (2023)
 [![Stars](https://img.shields.io/github/stars/Valentin-alix/AutoMarket?style=flat&logo=github)](https://github.com/Valentin-alix/AutoMarket)  
