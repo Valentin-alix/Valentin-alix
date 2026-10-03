@@ -19,8 +19,8 @@
 
 ## Public Projects
 
-### [MITM-Automation](https://github.com/Valentin-alix/Bot-Dofus-Mitm) (2023)
-[![Stars](https://img.shields.io/github/stars/Valentin-alix/Bot-Dofus-Mitm?style=flat&logo=github)](https://github.com/Valentin-alix/Bot-Dofus-Mitm)  
+### [AutoMarket](https://github.com/Valentin-alix/AutoMarket) (2023)
+[![Stars](https://img.shields.io/github/stars/Valentin-alix/AutoMarket?style=flat&logo=github)](https://github.com/Valentin-alix/AutoMarket)  
 Automated character for Dofus using MITM approach. Built backend services in Python and handled network protocol analysis.
 
 ### [Ankama Launcher Emulator](https://github.com/Valentin-alix/AnkamaLauncherEmulator) (2025)
