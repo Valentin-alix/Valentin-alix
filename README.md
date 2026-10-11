@@ -12,8 +12,8 @@
 - **Languages**: TypeScript, JavaScript  
 
 ### CI/CD & DevOps
-- Docker  
-- GitLab CI  
+- Docker / Docker compose
+- GitLab CI
 
 ---
 
