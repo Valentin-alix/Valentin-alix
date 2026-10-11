@@ -15,24 +15,6 @@
 - Docker / Docker compose
 - GitLab CI
 
----
-
-## Public Projects
-
-### [BillBot](https://github.com/Valentin-alix/ThisIsBillBot) (2025-2026)
-[![Stars](https://img.shields.io/github/stars/Valentin-alix/ThisIsBillBot?style=flat&logo=github)](https://github.com/Valentin-alix/ThisIsBillBot)  
-Complete Dofus Unity (Dofus 3) Bot using socket and mitm approach.
-
-### [AutoMarket](https://github.com/Valentin-alix/AutoMarket) (2023)
-[![Stars](https://img.shields.io/github/stars/Valentin-alix/AutoMarket?style=flat&logo=github)](https://github.com/Valentin-alix/AutoMarket)  
-Automated character for Dofus using MITM approach. Built backend services in Python and handled network protocol analysis.
-
-### [Ankama Launcher Emulator](https://github.com/Valentin-alix/AnkamaLauncherEmulator) (2025)
-[![Stars](https://img.shields.io/github/stars/Valentin-alix/AnkamaLauncherEmulator?style=flat&logo=github)](https://github.com/Valentin-alix/AnkamaLauncherEmulator)  
-Emulator for Ankama Launcher. Reverse engineered the protocol to simulate client-server communication.
-
----
-
 ## Contact
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/valentin-alix35/)
