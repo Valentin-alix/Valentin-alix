@@ -14,7 +14,3 @@
 ### CI/CD & DevOps
 - Docker / Docker compose
 - GitLab CI
-
-## Contact
-
-- 📫 [LinkedIn](https://www.linkedin.com/in/valentin-alix35/)
